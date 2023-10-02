@@ -1,2 +1,5 @@
 let accountName = 'Gopal Chandra Das'
-console.log(accountName);
+
+const accountId = 123456
+
+console.log(typeof(accountId));
